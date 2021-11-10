@@ -12,4 +12,4 @@ npx degit sveltejs/template svelte-app
 npm run dev
 ```
 
-(Result)[https://learningsvelte.netlify.app/]
+[Result](https://learningsvelte.netlify.app/)
